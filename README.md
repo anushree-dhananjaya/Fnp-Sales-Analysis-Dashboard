@@ -19,12 +19,11 @@ Excel Features:
 4. Custom formatting for enhanced visual appeal.<br/>
    
 Data Analysis:
-Extracted day names from order dates using Power Query formula: Date.ToText([Order_Date], "ddd").
-Summarized sales data for multiple dimensions: products, cities, occasions, and time.
+1. Extracted day names from order dates using Power Query formula: Date.ToText([Order_Date], "ddd").
+2. Summarized sales data for multiple dimensions: products, cities, occasions, and time.
 
 
- How to Use
-
+How to Use
 1. Open the Excel file containing the dashboard.
 2. Use the slicers to filter data by date range, occasion, or other categories.
 3. Review the visualized trends and insights for decision-making.
